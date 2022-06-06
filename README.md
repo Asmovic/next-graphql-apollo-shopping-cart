@@ -1,6 +1,6 @@
 # GraphQL Apollo Shopping Cart
 
-## by Adetola Daniel
+## by Asogba Ibrahim
 
 This is a clone of the [Lumin](https://store.luminskin.com) e-commerce website, using GraphQL and Apollo. It uses [chakra-ui](https://chakra-ui.com) as the component library within a Next.js app.
 

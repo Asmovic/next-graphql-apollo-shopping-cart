@@ -102,7 +102,7 @@ function Index() {
       <Flex bg="white" w="full" py={16}>
         <Container maxW="5xl">
           <Stack color="black" spacing={5}>
-            <Heading>All Products</Heading>
+            <Heading>Our Products</Heading>
             <Text fontSize="lg">A 360° look at Lumin</Text>
           </Stack>
         </Container>
